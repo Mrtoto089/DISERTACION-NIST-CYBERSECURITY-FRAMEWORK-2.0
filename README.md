@@ -58,7 +58,7 @@ Como se evidencia en la nueva versión del Framework de ciberseguridad 2.0 tiene
 
 # Ciberseguridad: Protegiendo tu Mundo Digital
 
-![Ciberseguridad](https://mundoenlinea.cl/wp-content/uploads/2019/06/cybersecurity1-678x300.png)
+![Ciberseguridad]([https://mundoenlinea.cl/wp-content/uploads/2019/06/cybersecurity1-678x300.png](https://www.facebook.com/photo/?fbid=638648991624818&set=a.638648988291485&__tn__=%3C))
 
 ## Introducción
 
