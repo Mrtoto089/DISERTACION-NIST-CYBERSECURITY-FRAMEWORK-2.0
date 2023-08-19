@@ -41,6 +41,7 @@ Como se evidencia en la nueva versión del Framework de ciberseguridad 2.0 tiene
 |   INFRAESTRUCTURAS  |     PRÁCTICAS       |                |                     |                        |
 |      CRITICAS       |                     |                |                     |                        | 
 |---------------------|---------------------|----------------|---------------------|------------------------|
+
 |      DIMENSIONES    |     APLICABLE       |    FUNCIONES   |        NIVELES      |          PERFIL        |
 |                     |  ORGANIZACIONES     |                |                     |                        |
 |---------------------|---------------------|----------------|---------------------|------------------------|
