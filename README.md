@@ -47,3 +47,58 @@ Como se evidencia en la nueva versión del Framework de ciberseguridad 2.0 tiene
 |                     |  5. DISPOSITIVOS CONECTADOS   |  5. RECUPERAR  |                     |                        | 
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.itsitio.com/wp-content/uploads/2018/02/NIST-cyber-security-framework.png)
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ciberseguridad: Protegiendo tu Mundo Digital</title>
+</head>
+<body>
+
+# Ciberseguridad: Protegiendo tu Mundo Digital
+
+![Ciberseguridad](https://example.com/cybersecurity-image.jpg)
+
+## Introducción
+
+La ciberseguridad es esencial en la era digital actual. Con el avance de la tecnología, también aumentan las amenazas cibernéticas. Esta página está diseñada para proporcionarte información esencial sobre cómo proteger tus datos y sistemas en línea.
+
+## Consejos de Ciberseguridad
+
+### 1. Contraseñas Seguras
+
+Utiliza contraseñas únicas y complejas para cada cuenta. Combina letras mayúsculas y minúsculas, números y símbolos para hacerlas más seguras.
+
+### 2. Autenticación de Dos Factores (2FA)
+
+Habilita la autenticación de dos factores siempre que sea posible. Esto agrega una capa adicional de seguridad al requerir una segunda forma de verificación.
+
+### 3. Mantén tus Dispositivos Actualizados
+
+Mantén tus dispositivos y software actualizados. Las actualizaciones a menudo incluyen correcciones de seguridad cruciales.
+
+## Infografía de Amenazas Comunes
+
+![Infografía de Amenazas](https://example.com/threats-infographic.jpg)
+
+## Herramientas Recomendadas
+
+- **Firewall:** Un firewall protege tu red controlando el tráfico entrante y saliente.
+- **Antivirus:** El software antivirus escanea y elimina amenazas potenciales.
+- **VPN (Red Privada Virtual):** Una VPN cifra tu conexión a Internet para mayor privacidad.
+- **Gestor de Contraseñas:** Ayuda a almacenar y generar contraseñas seguras.
+
+## Caso de Estudio: Ataque de Phishing
+
+Los ataques de phishing han aumentado recientemente. Los ciberdelincuentes engañan a los usuarios para que divulguen información confidencial. ¡Aprende cómo identificar y evitar estos ataques!
+
+## Recursos Adicionales
+
+- [Blog de Seguridad Cibernética](https://example.com/cybersecurity-blog)
+- [Curso en Línea sobre Ciberseguridad](https://example.com/cybersecurity-course)
+
+¡Mantente seguro en línea y protege tu información!
+
+</body>
+</html>
