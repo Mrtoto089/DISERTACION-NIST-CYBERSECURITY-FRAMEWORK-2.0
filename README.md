@@ -37,10 +37,7 @@ Como se evidencia en la nueva versión del Framework de ciberseguridad 2.0 tiene
 |       OBJETIVO      |       COMO          | OBLIGATORIEDAD |   QUIEN             |        PARA QUÉ        |
 |---------------------|---------------------|----------------|---------------------|------------------------|
 |SEGURIDAD CIBERNÉTICA DE LAS INFRAESTRUCTURAS CRITICAS |EXPANDIR IMPLEMENTAR INTERCAMBIO MEJORES PRÁCTICAS  | USO VOLUNTARIO | DIRECCIÓN EVOLUTIVA | AUMENTO CIBERSEGURIDAD        LA ECONOMIA              LA SOCIEDAD  |
-|---------------------|---------------------|----------------|---------------------|------------------------|
-|      DIMENSIONES    |     APLICABLE       |    FUNCIONES   |        NIVELES      |          PERFIL        |
-|                     |  ORGANIZACIONES     |                |                     |                        |
-|---------------------|---------------------|----------------|---------------------|------------------------|
+|      **DIMENSIONES**    |     **APLICABLE ORGANIZACIONES**     |   **FUNCIONES**   |        **NIVELES**    |          **PERFIL**        |
 |    1. FISICAS	      |1. TECNOLOGIA DE LA  | 1. IDENTIFICAR | 	   1. PARCIAL      |       1. ACTUAL        | 
 |                     |    INFORMACION TI   |                |                     |                        | 
 |  2. CIBERNETICAS    |	2. SISTEMAS DE      |  2. PROTEGER   | 2. RIESGO INFORMADO |       2.OBJETIVO       |
