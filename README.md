@@ -58,7 +58,7 @@ Como se evidencia en la nueva versión del Framework de ciberseguridad 2.0 tiene
 
 # Ciberseguridad: Protegiendo tu Mundo Digital
 
-![Ciberseguridad](https://www.esdegue.edu.co/es)
+![Ciberseguridad](https://www.esdegue.edu.co/es).
 
 ## Introducción
 
