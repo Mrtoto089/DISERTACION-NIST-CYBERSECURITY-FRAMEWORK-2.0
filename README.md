@@ -49,12 +49,6 @@ Como se evidencia en la nueva versión del Framework de ciberseguridad 2.0 tiene
 ![](https://www.itsitio.com/wp-content/uploads/2018/02/NIST-cyber-security-framework.png)
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Ciberseguridad: Protegiendo tu Mundo Digital</title>
-</head>
-<body>
 
 # Ciberseguridad: Protegiendo tu Mundo Digital
 
@@ -99,5 +93,3 @@ Los ataques de phishing han aumentado recientemente. Los ciberdelincuentes enga�
 
 ¡Mantente seguro en línea y protege tu información!
 
-</body>
-</html>
