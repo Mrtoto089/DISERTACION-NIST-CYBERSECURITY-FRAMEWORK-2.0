@@ -58,7 +58,8 @@ Como se evidencia en la nueva versión del Framework de ciberseguridad 2.0 tiene
 
 # Ciberseguridad: Protegiendo tu Mundo Digital
 
-![Ciberseguridad](https://www.jid.org/wp-content/uploads/2022/01/blog-cyberdefense.jpg)
+
+![Infografía de Amenazas](https://uid.org.co/wp-content/uploads/2019/04/INFOGRAF%C3%8DA-CIBERAMENAZAS-1024x791.jpg)
 
 ## Introducción
 
