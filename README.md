@@ -34,6 +34,8 @@ Un apartado importante y a la cual se le presta gran atención es la gobernanza 
 
 Como se evidencia en la nueva versión del Framework de ciberseguridad 2.0 tienen cambios significativos, los cuales ayudaran en el desarrollo de actividades en pro de proteger nuestros activos en el ciberespacio y volver las organizaciones ciber-resiliente ante la creciente evolución de las amenazas cibernéticas.  
 
+> [!IMPORTANT]
+
 |       OBJETIVO      |       COMO          | OBLIGATORIEDAD |   QUIEN             |        PARA QUÉ        |
 |---------------------|---------------------|----------------|---------------------|------------------------|
 |SEGURIDAD CIBERNÉTICA DE LAS INFRAESTRUCTURAS CRITICAS |EXPANDIR IMPLEMENTAR INTERCAMBIO MEJORES PRÁCTICAS  | USO VOLUNTARIO | DIRECCIÓN EVOLUTIVA | AUMENTO CIBERSEGURIDAD        LA ECONOMIA              LA SOCIEDAD  |
