@@ -59,7 +59,7 @@ Como se evidencia en la nueva versión del Framework de ciberseguridad 2.0 tiene
 # Ciberseguridad: Protegiendo tu Mundo Digital
 
 
-![Infografía de Amenazas](https://www.infobae.com/new-resizer/ELfSHq452Ev6zhKyte1vrB7sZKM=/992x558/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/36UPULLFN5BUFOOCBBITX66XB4.png)
+![Infografía de Amenazas](https://revistabyte.es/wp-content/uploads/2020/03/teletrabajo-ibm-alerta-de-los-riesgos-de-ciberseguridad-696x416.jpg)
 
 ## Introducción
 
