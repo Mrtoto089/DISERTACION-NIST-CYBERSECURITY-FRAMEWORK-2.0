@@ -37,16 +37,10 @@ Como se evidencia en la nueva versión del Framework de ciberseguridad 2.0 tiene
 |       OBJETIVO      |       COMO          | OBLIGATORIEDAD |   QUIEN             |        PARA QUÉ        |
 |---------------------|---------------------|----------------|---------------------|------------------------|
 |SEGURIDAD CIBERNÉTICA DE LAS INFRAESTRUCTURAS CRITICAS |EXPANDIR IMPLEMENTAR INTERCAMBIO MEJORES PRÁCTICAS  | USO VOLUNTARIO | DIRECCIÓN EVOLUTIVA | AUMENTO CIBERSEGURIDAD        LA ECONOMIA              LA SOCIEDAD  |
-|      **DIMENSIONES**    |     **APLICABLE ORGANIZACIONES**     |   **FUNCIONES**   |        **NIVELES**    |          **PERFIL**        |
-|    1. FISICAS	      |1. TECNOLOGIA DE LA  | 1. IDENTIFICAR | 	   1. PARCIAL      |       1. ACTUAL        | 
-|                     |    INFORMACION TI   |                |                     |                        | 
-|  2. CIBERNETICAS    |	2. SISTEMAS DE      |  2. PROTEGER   | 2. RIESGO INFORMADO |       2.OBJETIVO       |
-|                     |  CONTROL INDUSTRIAL |                |                     |                        |         
-|                     |        ICS	    |  	             |	                   |                        |
-|     3. PERSONAS     | 3. SISTEMAS         |   3. DETECTAR  |    3. REPETIBLE	   |                        |
-|                     |   CIBERFISICOS CPS  |		     |                     |                        |
-|                     |4. INTERNET DE LAS   |  4. RESPONDER  |    4. ADAPTABLE     |                        |
-|                     |       COSAS IoT     |		     | 	                   |                        | 
-|                     |  5. DISPOSITIVOS    |  5. RECUPERAR  |                     |                        | 
-|                     |     CONECTADOS	    | 		     |                     |                        | 
-|---------------------|---------------------|----------------|---------------------|------------------------|
+|       **DIMENSIONES**    |      **APLICABLE ORGANIZACIONES**     |     **FUNCIONES**   |         **NIVELES**    |          **PERFIL**        |
+|    1. FISICAS	      |1. TECNOLOGIA DE LA  INFORMACION TI | 1. IDENTIFICAR | 	   1. PARCIAL      |       1. ACTUAL        | 
+|  2. CIBERNETICAS    |	2. SISTEMAS DE  CONTROL INDUSTRIAL ICS    |  2. PROTEGER   | 2. RIESGO INFORMADO |       2.OBJETIVO       |
+|     3. PERSONAS     | 3. SISTEMAS  CIBERFISICOS CPS         |   3. DETECTAR  |    3. REPETIBLE	   |                        |
+|                     |4. INTERNET DE LAS COSAS IoT    |  4. RESPONDER  |    4. ADAPTABLE     |                        |
+|                     |  5. DISPOSITIVOS CONECTADOS   |  5. RECUPERAR  |                     |                        | 
+
