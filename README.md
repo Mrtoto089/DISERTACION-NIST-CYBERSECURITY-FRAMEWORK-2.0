@@ -36,9 +36,9 @@ Como se evidencia en la nueva versión del Framework de ciberseguridad 2.0 tiene
 
 |       OBJETIVO      |       COMO          | OBLIGATORIEDAD |   QUIEN             |        PARA QUÉ        |
 |---------------------|---------------------|----------------|---------------------|------------------------|
-|  MEJORAR SEGURIDAD  |EXPANDIR IMPLEMENTAR | USO VOLUNTARIO | DIRECCIÓN EVOLUTIVA | AUMENTO CIBERSEGURIDAD |
-|  CIBERNÉTICA DE LAS |INTERCAMBIO MEJORES  |                |                     |                        |
-|   INFRAESTRUCTURAS  |     PRÁCTICAS       |                |                     |                        |
+|  MEJORAR SEGURIDAD  |EXPANDIR IMPLEMENTAR INTERCAMBIO MEJORES PRÁCTICAS  | USO VOLUNTARIO | DIRECCIÓN EVOLUTIVA | AUMENTO CIBERSEGURIDAD |
+|  CIBERNÉTICA DE LAS |                     |                |                     |                        |
+|   INFRAESTRUCTURAS  |                     |                |                     |                        |
 |      CRITICAS       |                     |                |                     |                        | 
 |---------------------|---------------------|----------------|---------------------|------------------------|
 
