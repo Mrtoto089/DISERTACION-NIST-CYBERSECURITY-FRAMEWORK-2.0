@@ -36,7 +36,7 @@ Como se evidencia en la nueva versión del Framework de ciberseguridad 2.0 tiene
 
 > [!IMPORTANT]
 
-|       OBJETIVO      |       COMO          | OBLIGATORIEDAD |   QUIEN             |        PARA QUÉ        |
+|       OBJETIVO `#aaffff`     |       COMO          | OBLIGATORIEDAD |   QUIEN             |        PARA QUÉ        |
 |---------------------|---------------------|----------------|---------------------|------------------------|
 |SEGURIDAD CIBERNÉTICA DE LAS INFRAESTRUCTURAS CRITICAS |EXPANDIR IMPLEMENTAR INTERCAMBIO MEJORES PRÁCTICAS  | USO VOLUNTARIO | DIRECCIÓN EVOLUTIVA | AUMENTO CIBERSEGURIDAD        LA ECONOMIA              LA SOCIEDAD  |
 |       **DIMENSIONES**    |      **APLICABLE ORGANIZACIONES**     |     **FUNCIONES**   |         **NIVELES**    |          **PERFIL**        |
