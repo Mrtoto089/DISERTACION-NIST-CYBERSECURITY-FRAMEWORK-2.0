@@ -34,4 +34,25 @@ Un apartado importante y a la cual se le presta gran atención es la gobernanza 
 
 Como se evidencia en la nueva versión del Framework de ciberseguridad 2.0 tienen cambios significativos, los cuales ayudaran en el desarrollo de actividades en pro de proteger nuestros activos en el ciberespacio y volver las organizaciones ciber-resiliente ante la creciente evolución de las amenazas cibernéticas.  
 
-
+|       OBJETIVO      |       COMO          | OBLIGATORIEDAD |   QUIEN             |        PARA QUÉ        |
+|---------------------|---------------------|----------------|---------------------|------------------------|
+|  MEJORAR SEGURIDAD  |EXPANDIR IMPLEMENTAR | USO VOLUNTARIO | DIRECCIÓN EVOLUTIVA | AUMENTO CIBERSEGURIDAD |
+|  CIBERNÉTICA DE LAS |INTERCAMBIO MEJORES  |                |                     |                        |
+|   INFRAESTRUCTURAS  |     PRÁCTICAS       |                |                     |                        |
+|      CRITICAS       |                     |                |                     |                        | 
+|---------------------|---------------------|----------------|---------------------|------------------------|
+|      DIMENSIONES    |     APLICABLE       |    FUNCIONES   |        NIVELES      |          PERFIL        |
+|                     |  ORGANIZACIONES     |                |                     |                        |
+|---------------------|---------------------|----------------|---------------------|------------------------|
+|    1. FISICAS	      |1. TECNOLOGIA DE LA  | 1. IDENTIFICAR | 	   1. PARCIAL      |       1. ACTUAL        | 
+|                     |    INFORMACION TI   |                |                     |                        | 
+|  2. CIBERNETICAS    |	2. SISTEMAS DE      |  2. PROTEGER   | 2. RIESGO INFORMADO |       2.OBJETIVO       |
+|                     |  CONTROL INDUSTRIAL |                |                     |                        |         
+|                     |        ICS	    |  	             |	                   |                        |
+|     3. PERSONAS     | 3. SISTEMAS         |   3. DETECTAR  |    3. REPETIBLE	   |                        |
+|                     |   CIBERFISICOS CPS  |		     |                     |                        |
+|                     |4. INTERNET DE LAS   |  4. RESPONDER  |    4. ADAPTABLE     |                        |
+|                     |       COSAS IoT     |		     | 	                   |                        | 
+|                     |  5. DISPOSITIVOS    |  5. RECUPERAR  |                     |                        | 
+|                     |     CONECTADOS	    | 		     |                     |                        | 
+|---------------------|---------------------|----------------|---------------------|------------------------|
