@@ -58,7 +58,7 @@ Como se evidencia en la nueva versión del Framework de ciberseguridad 2.0 tiene
 
 # Ciberseguridad: Protegiendo tu Mundo Digital
 
-![Ciberseguridad](https://example.com/cybersecurity-image.jpg)
+![Ciberseguridad]([https://example.com/cybersecurity-image.jpg](https://mundoenlinea.cl/wp-content/uploads/2019/06/cybersecurity1-678x300.png))
 
 ## Introducción
 
@@ -80,7 +80,7 @@ Mantén tus dispositivos y software actualizados. Las actualizaciones a menudo i
 
 ## Infografía de Amenazas Comunes
 
-![Infografía de Amenazas](https://example.com/threats-infographic.jpg)
+![Infografía de Amenazas]([https://example.com/threats-infographic.jpg](https://uid.org.co/wp-content/uploads/2019/04/INFOGRAF%C3%8DA-CIBERAMENAZAS-1024x791.jpg))
 
 ## Herramientas Recomendadas
 
@@ -95,8 +95,6 @@ Los ataques de phishing han aumentado recientemente. Los ciberdelincuentes enga�
 
 ## Recursos Adicionales
 
-- [Blog de Seguridad Cibernética](https://example.com/cybersecurity-blog)
-- [Curso en Línea sobre Ciberseguridad](https://example.com/cybersecurity-course)
 
 ¡Mantente seguro en línea y protege tu información!
 
