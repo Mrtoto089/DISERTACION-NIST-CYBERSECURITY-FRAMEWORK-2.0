@@ -46,7 +46,7 @@ Como se evidencia en la nueva versión del Framework de ciberseguridad 2.0 tiene
 |                     |4. INTERNET DE LAS COSAS IoT    |  4. RESPONDER  |    4. ADAPTABLE     |                        |
 |                     |  5. DISPOSITIVOS CONECTADOS   |  5. RECUPERAR  |                     |                        | 
 
-![](https://www.itsitio.com/wp-content/uploads/2018/02/NIST-cyber-security-framework.png)
+![](MRTOTO089.jpg)
 
 
 
